@@ -1,1 +1,17 @@
 /* Estilos de clases de los componentes */
+
+/* Estilos del botón carrito */
+.carritoNavbar{
+    font-size: 1.3rem;
+}
+.carritoNavbar span{
+    position: absolute;
+    top: 5px;
+    height: 17px;
+    width: 17px;
+    font-size: .72rem;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    padding-left: 5px;
+}
