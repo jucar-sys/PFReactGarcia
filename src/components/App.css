@@ -1,5 +1,13 @@
 /* Estilos de clases de los componentes */
 
+/* darkMode */
+.darkMode{
+    background-color: #1b1b1b;
+}
+.darkModeText{
+    color: white;
+}
+
 /* Estilos del botón carrito */
 .carritoNavbar{
     font-size: 1.3rem;
@@ -14,4 +22,26 @@
     background-color: red;
     color: white;
     padding-left: 5px;
+}
+
+/* Estilos Navbar */
+.btnNav{
+    border: none;
+    background-color: transparent;
+}
+
+/* Estilos de las cards de productos */
+.txtModelo{
+    font-size: .8rem;
+}
+.txtDatosProd{
+    line-height: 10px;
+}
+.txtDatosProd span{
+    font-weight: 700;
+}
+
+/* Estilos CHECKOUT */
+.divForm{
+    margin-top: 20px;
 }
